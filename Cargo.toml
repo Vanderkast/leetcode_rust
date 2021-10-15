@@ -1,0 +1,14 @@
+[workspace]
+
+members = [
+    "valid_parentheses",
+    "find_star_graph_center",
+    "find_town_judge",
+    "word_search",
+    "longest_str_no_repeat",
+    "island_perimeter",
+    "biwise_and_range",
+    "guessing_game_player",
+    "perfect_squares",
+    "best_time_but_sell"
+]

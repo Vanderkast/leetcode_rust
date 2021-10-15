@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUST_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/find_star_graph_center/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find_town_judge/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/valid_parentheses/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/word_search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prefix_trie/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/island_perimeter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/longest_str_no_repeat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/biwise_and_range/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/guessing_game_player/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/perfect_squares/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
